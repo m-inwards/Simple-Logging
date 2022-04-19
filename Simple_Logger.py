@@ -32,11 +32,3 @@ class Logger:
     def log_error(self, message):
         self.log_file.write(f"[{datetime.now().strftime('%d/%m/%Y at %H:%M:%S')} | ERROR  ]: {message}\n")
         self.log_file.flush()
-
-
-if __name__ == "__main__":
-    lgr = Logger("Test_Logger")
-
-    lgr.log_info("This is a test of the logging info")
-    lgr.log_warning("This is a test of the logging warning")
-    lgr.log_error("This is a test of the logging error")
