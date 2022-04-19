@@ -28,7 +28,7 @@ This code is an example of logging something for errors
 ```
 lgr.log_error("This is a test of the logging error")
 ```
-An example output of the code above is:<br>
+An example output of the code above in the log (txt) file is:<br>
 ```
 ###############################################################
 [19/04/2022 at 16:29:11]
