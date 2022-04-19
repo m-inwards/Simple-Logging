@@ -2,7 +2,7 @@
 Just some simple logging functions that can be used in pretty much any program.
 
 ## Installation
-This program was developed and tested in <mark>python 3.10</mark> and uses standard libraries. Although many earlier versions will work, I just haven't bothered testing them.
+This program was developed and tested in ==python 3.10== and uses standard libraries. Although many earlier versions will work, I just haven't bothered testing them.
 
 ## Usage
 Simply download the [Simple_Logger.py](Simple_Logger.py) file and import the logger class into your python file with the code below.
