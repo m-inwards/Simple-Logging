@@ -12,7 +12,7 @@ pip install Simple-Logger-Tool
 ## Usage
 Import the logger class into your python file with the code below.
 ```
-from Simple_Logger_Tool import Logger
+from Simple_Logger_Tool.Simple_Logger_Tool import Logger
 ```
 
 You can create a logger object by using the code below. Where I have put test logger, you can put whatever you want the logger to be called on your system. <br>
