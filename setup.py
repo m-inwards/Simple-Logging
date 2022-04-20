@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Simple_Logger_Tool",
-    version="1.0.4",
+    version="1.0.5",
     author="Matt Inwards",
     author_email="",
     description="Just some simple logging functions that can be used in pretty much any program.",
