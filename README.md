@@ -6,7 +6,7 @@ This program was developed and tested in [`python 3.10`](https://docs.python.org
 
 You can install this library with the following command
 ```
-pip install Simple-Logger-Tool
+pip install Simple-Logger-Tool -U
 ```
 
 ## Usage
